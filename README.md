@@ -1,4 +1,4 @@
-# 🚗 Car Purchase Amount Prediction
+# 🚗 Sales Prediction
 ---
 ## 📌 Overview
 
@@ -126,7 +126,7 @@ Comprehensive notebook with:
 ---
 3. src/utils.py
  saving predictions and loading data 
- 
+
  ---
  # Output
  1. Predictions are saved in the `outputs/predictions.csv` file for further analysis and reporting.
